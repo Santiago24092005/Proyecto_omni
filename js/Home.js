@@ -1,0 +1,1 @@
+/*window.location.href = "index.html"; // Redirigir a la página de gestión del talento humano*/
